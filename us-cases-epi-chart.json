@@ -197,7 +197,7 @@
                 "right": 0
             },
             "label": {
-                "text": "Date of illness onset",
+                "text": "Date of onset",
                 "position": "outer-center"
             }
         },
@@ -272,7 +272,7 @@
         "yBottomTickValue": 26,
         "subType": "step",
         "stackBars": true,
-        "dataTableTitle": "COVID-19 cases in the United States by date of illness onset"
+        "dataTableTitle": "Confirmed"
     },
     "transition": {
         "duration": 350
