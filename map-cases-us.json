@@ -88,5 +88,5 @@
         "title": "States"
     },
     "color": "yelloworangebrown",
-    "dataUrl": "https://timothybest-usds.github.io/d3-examples/map-data-cases.csv"
+    "dataUrl": "/coronavirus/2019-ncov/map-data-cases.csv"
 }
